@@ -14,7 +14,12 @@ ___
 
 - 🖥️ [**Operating Systems**](https://github.com/neriabd/OperatingSystems)
 <br>Operating Systems Course Assignments
-<br><br> 
+<br><br>
+
+- 🖥️ [**Workshop in C & C++**](https://github.com/neriabd/Workshop-C-CPP)
+<br>C and C++ Course Assignments
+<br><br>
+
 ---
 ### 👨‍💻 Languages
 [![C Icon](logos/c.png)](https://en.wikipedia.org/wiki/C_(programming_language))
