@@ -8,7 +8,7 @@ Hey there, I'm **Neriya Ben David** 👋
 🎓 Third-year **BSc Computer Science** student at **[The Hebrew University of Jerusalem](https://en.huji.ac.il/)**.
 ___
 ### 📽️ Projects  
-• 📷 [**Image Processing**](https://github.com/neriabd/ImageProcessing)  
+- 📷 [**Image Processing**]((https://github.com/neriabd/ImageProcessing)
     <br>Image Processing Course Assignments
     <br><br> 
 
