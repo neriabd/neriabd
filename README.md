@@ -8,7 +8,8 @@ Hey there, I'm **Neriya Ben David** 👋
 🎓 Third-year **BSc Computer Science** student at **[The Hebrew University of Jerusalem](https://en.huji.ac.il/)**.
 
 ---  
-👨‍💻 ### Languages
+👨‍💻
+### Languages
 [![C Icon](logos/c.png)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![CPP Icon](logos/cpp.png)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![Python Icon](logos/Python.jpeg)](https://www.python.org)
