@@ -17,7 +17,7 @@ ___
 <br><br>
 
 - 🖥️ [**Workshop in C & C++**](https://github.com/neriabd/Workshop-C-CPP)
-<br>C and C++ Course Assignments
+<br>C & C++ Course Assignments
 <br><br>
 
 ---
