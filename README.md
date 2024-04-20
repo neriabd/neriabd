@@ -15,8 +15,12 @@ ___
 <br>Operating Systems Course Assignments
 <br><br>
 
-- 🖥️ [**Workshop in C & C++**](https://github.com/neriabd/Workshop-C-CPP)
+- ⏳ [**Workshop in C & C++**](https://github.com/neriabd/Workshop-C-CPP)
 <br>C & C++ Course Assignments
+<br><br>
+
+- 🗣️ [**Natural Langugage Processing**](https://github.com/neriabd/Natural-Language-Processing)
+<br>NLP Course Assignments
 <br><br>
 
 ---
