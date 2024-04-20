@@ -1,4 +1,4 @@
-### 🙇 Information About Me 
+## 🙇 Information About Me 
 
 Hey there, I'm **Neria Ben David** 👋  
 
