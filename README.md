@@ -1,6 +1,6 @@
 ### Information About Me 🙇
 ---
-<hr style="border: 0.5px solid #FF0000">
+<hr style="border: 1px solid red">
 
 Hey there, I'm **Neriya Ben David** 👋  
 
