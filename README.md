@@ -1,4 +1,6 @@
 Information About Me 🙇
+<font size="5">This text has a larger font size.</font>
+
 
 Hey there, I'm Neriya Ben David! 👋
 👨‍🔬 Deeply passionate about **Mathematics**, **Coding**, and **Technology**. 
