@@ -1,8 +1,8 @@
 Information About Me 🙇
 
 Hey there, I'm Neriya Ben David! 👋
-I'm deeply passionate about mathematics, coding, and technology. 
-Currently, I'm in my third year pursuing a BSc in Computer Science at the Hebrew University of Jerusalem.
+👨‍🔬 Deeply passionate about mathematics, coding, and technology. 
+🎓 Third-year BSc Computer Science student at Hebrew University of Jerusalem
 
 <!--
 **neriabd/neriabd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
