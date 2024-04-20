@@ -1,4 +1,4 @@
-🙇 ### Information About Me 
+### 🙇 Information About Me 
 ---
 
 Hey there, I'm **Neriya Ben David** 👋  
@@ -7,9 +7,8 @@ Hey there, I'm **Neriya Ben David** 👋
 👨‍🔬 Deeply passionate about **Mathematics**, **Coding**, and **Technology**.   
 🎓 Third-year **BSc Computer Science** student at **[The Hebrew University of Jerusalem](https://en.huji.ac.il/)**.
 
----  
-👨‍💻
-### Languages
+---
+### 👨‍💻 Information About Me 
 [![C Icon](logos/c.png)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![CPP Icon](logos/cpp.png)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![Python Icon](logos/Python.jpeg)](https://www.python.org)
