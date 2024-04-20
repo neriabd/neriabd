@@ -9,7 +9,8 @@ Hey there, I'm **Neriya Ben David** 👋
 ___
 ### 📽️ Projects  
 • 📷 [**Image Processing**](https://github.com/neriabd/ImageProcessing)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Image Processing Course Assignments
+<br>Image Processing Course Assignments
+    <br><br> 
 
 • 🖥️ [**Operating Systems**](https://github.com/neriabd/OperatingSystems)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Operating Systems Course Assignments
