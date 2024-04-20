@@ -9,9 +9,10 @@ Hey there, I'm **Neriya Ben David** 👋
 
 ---  
 ### Languages
-[![Python Icon](logos/python.png)](https://www.java.com/en/)
 [![C Icon](logos/c.png)](https://www.java.com/en/)
 [![CPP Icon](logos/cpp.png)](https://www.java.com/en/)
+[![Python Icon](logos/python.png)](https://www.java.com/en/)
+
 
 
 <!--
