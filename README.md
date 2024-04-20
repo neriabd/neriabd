@@ -1,6 +1,6 @@
 ### 🙇 Information About Me 
 
-Hey there, I'm **Neriya Ben David** 👋  
+Hey there, I'm **Neria Ben David** 👋  
 
 
 👨‍🔬 Deeply passionate about **Mathematics**, **Coding**, and **Technology**.   
