@@ -7,7 +7,9 @@ Hey there, I'm **Neria Ben David** 👋
 🎓 Third-year **BSc Computer Science** student at **[The Hebrew University of Jerusalem](https://en.huji.ac.il/)**.
 ##
 
-## 📽️ Projects  
+## 💻 Personal Projects  
+
+## 📽️ University Projects  
 -  📷 [**Image Processing**](https://github.com/neriabd/ImageProcessing)  • 🖥️ [**Operating Systems**](https://github.com/neriabd/OperatingSystems) • ⏳ [**Workshop in C & C++**](https://github.com/neriabd/Workshop-C-CPP)
 -  🗣️ [**Natural Langugage Processing**](https://github.com/neriabd/Natural-Language-Processing) • 🎮 [**Natural Langugage Processing**](https://github.com/neriabd/Nand2Tetris)
 ##
