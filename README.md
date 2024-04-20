@@ -11,8 +11,7 @@ Hey there, I'm **Neriya Ben David** 👋
 ### Languages
 [![C Icon](logos/c.png)](https://www.java.com/en/)
 [![CPP Icon](logos/cpp.png)](https://www.java.com/en/)
-[![Python Icon](logos/python.png)](https://www.java.com/en/)
-[![CPP Icon](logos/cpp1.png)](https://www.java.com/en/)
+[![Python Icon](logos/python.jpeg)](https://www.java.com/en/)
 
 
 
