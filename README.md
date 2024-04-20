@@ -12,12 +12,9 @@ ___
     <br>Image Processing Course Assignments
     <br><br> 
 
-• 🖥️ [**Operating Systems**](https://github.com/neriabd/OperatingSystems)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Operating Systems Course Assignments
-
-- 📁 [**My Portfolio**](https://)
-    <br>My Portfolio, written in s, using Next.js.
-    <br><br>
+- 🖥️ [**Operating Systems**](https://github.com/neriabd/OperatingSystems)  
+    <br>Operating Systems Course Assignments
+    <br><br> 
 ---
 ### 👨‍💻 Languages
 [![C Icon](logos/c.png)](https://en.wikipedia.org/wiki/C_(programming_language))
