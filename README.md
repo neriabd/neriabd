@@ -12,7 +12,7 @@ ___
     <br>Image Processing Course Assignments
     <br><br> 
 
-- 🖥️ [**Operating Systems**](https://github.com/neriabd/OperatingSystems)  
+- 🖥️ [**Operating Systems**](https://github.com/neriabd/OperatingSystems)
     <br>Operating Systems Course Assignments
     <br><br> 
 ---
