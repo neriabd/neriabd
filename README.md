@@ -1,5 +1,5 @@
 ### Information About Me 🙇
-<hr style="border: 0.5px solid #eee">
+<hr style="border: 0.5px solid #E4E4E4">
 
 Hey there, I'm **Neriya Ben David** 👋  
 
@@ -7,7 +7,7 @@ Hey there, I'm **Neriya Ben David** 👋
 👨‍🔬 Deeply passionate about **Mathematics**, **Coding**, and **Technology**.   
 🎓 Third-year **BSc Computer Science** student at **[The Hebrew University of Jerusalem](https://en.huji.ac.il/)**.
 
-<hr style="border: 0.5px solid #eee">  
+<hr style="border: 0.5px solid #E4E4E4">  
 
 ### Languages
 ![Alt text](logos/Python.png)
