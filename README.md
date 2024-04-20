@@ -23,7 +23,7 @@ Hey there, I'm **Neria Ben David** 👋
 <br>NLP Course Assignments
 <br><br>
 
----
+***
 ## 👨‍💻 Programming Languages
 [![C Icon](logos/c.png)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![CPP Icon](logos/cpp.png)](https://en.wikipedia.org/wiki/C%2B%2B)
