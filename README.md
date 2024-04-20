@@ -5,7 +5,9 @@ Hey there, I'm **Neriya Ben David** 👋
 👨‍🔬 Deeply passionate about **Mathematics**, **Coding**, and **Technology**.   
 🎓 Third-year **BSc Computer Science** student at **[The Hebrew University of Jerusalem](https://en.huji.ac.il/)**.
 
-
+### Languages
+![Alt text]([path/to/logo.png](https://drive.google.com/file/d/1h7mL7zMUyF7E9x-q_NknknI9FXC2zjLb/view?usp=drive_link
+)
 <!--
 **neriabd/neriabd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
