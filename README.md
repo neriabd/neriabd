@@ -11,7 +11,7 @@ ___
 • 📷 [**Image Processing**](https://github.com/neriabd/ImageProcessing)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Image Processing Course Assignments
 
-• 🖥️ [**Operating Systems**](https://github.com/neriabd/OperatingSystems)
+• 🖥️ [**Operating Systems**](https://github.com/neriabd/OperatingSystems)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Operating Systems Course Assignments
 
 ---
