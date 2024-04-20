@@ -10,8 +10,11 @@ Hey there, I'm **Neria Ben David** 👋
 ## 💻 Personal Projects  
 
 ## 📽️ University Projects  
--  📷 [**Image Processing**](https://github.com/neriabd/ImageProcessing)  • 🖥️ [**Operating Systems**](https://github.com/neriabd/OperatingSystems) • ⏳ [**Workshop in C & C++**](https://github.com/neriabd/Workshop-C-CPP)
--  🗣️ [**Natural Langugage Processing**](https://github.com/neriabd/Natural-Language-Processing) • 🎮 [**Nand2Tetris**](https://github.com/neriabd/Nand2Tetris/tree/main)
+-  📷 [**Image Processing**](https://github.com/neriabd/ImageProcessing)
+-  🖥️ [**Operating Systems**](https://github.com/neriabd/OperatingSystems)
+-  ⏳ [**Workshop in C & C++**](https://github.com/neriabd/Workshop-C-CPP)
+-  🗣️ [**Natural Langugage Processing**](https://github.com/neriabd/Natural-Language-Processing)
+-  🎮 [**Nand2Tetris**](https://github.com/neriabd/Nand2Tetris/tree/main)
 ##
 ## 👨‍💻 Programming Languages
 
