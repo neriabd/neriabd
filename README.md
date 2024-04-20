@@ -3,10 +3,11 @@
 
 Hey there, I'm **Neriya Ben David** 👋  
 
-<hr style="border: 0.5px solid #eee">  
 
 👨‍🔬 Deeply passionate about **Mathematics**, **Coding**, and **Technology**.   
 🎓 Third-year **BSc Computer Science** student at **[The Hebrew University of Jerusalem](https://en.huji.ac.il/)**.
+
+<hr style="border: 0.5px solid #eee">  
 
 ### Languages
 ![Alt text](logos/Python.png)
