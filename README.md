@@ -9,8 +9,8 @@ Hey there, I'm **Neriya Ben David** 👋
 
 ---  
 ### Languages
-[![Java Icon](https://www.oracle.com/a/ocom/img/cb71-java-logo.png)](https://www.java.com/en/)
-
+[![Python Icon](logos/python.png)](https://www.java.com/en/)
+a
 <!--
 **neriabd/neriabd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
