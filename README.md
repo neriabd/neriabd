@@ -24,7 +24,7 @@ ___
 <br><br>
 
 ---
-### 👨‍💻 Languages
+### 👨‍💻 Programming Languages
 [![C Icon](logos/c.png)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![CPP Icon](logos/cpp.png)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![Python Icon](logos/Python.jpeg)](https://www.python.org)
