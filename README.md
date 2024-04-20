@@ -33,6 +33,13 @@ Hey there, I'm **Neria Ben David** 👋
 [![CPP Icon](logos/cpp.png)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![Python Icon](logos/python.png)](https://www.python.org)
 
+<center>
+
+[![C Icon](logos/c.png)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![CPP Icon](logos/cpp.png)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![Python Icon](logos/python.png)](https://www.python.org)
+
+</center>
 
 
 
