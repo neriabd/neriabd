@@ -1,7 +1,7 @@
 Information About Me 🙇
 
 Hey there, I'm Neriya Ben David! 👋
-👨‍🔬 Deeply passionate about mathematics, coding, and technology. 
+👨‍🔬 Deeply passionate about **Mathematics**, **Coding**, and **Technology**. 
 🎓 Third-year BSc Computer Science student at Hebrew University of Jerusalem
 
 <!--
