@@ -9,7 +9,7 @@ Hey there, I'm **Neriya Ben David** 👋
 
 ---  
 ### Languages
-[![Python Icon](logos.png)](https://www.java.com/en/)
+[![Python Icon](logos/python.png)](https://www.java.com/en/)
 a
 <!--
 **neriabd/neriabd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
