@@ -5,8 +5,8 @@ Hey there, I'm **Neria Ben David** 👋
 
 👨‍🔬 Deeply passionate about **Mathematics**, **Coding**, and **Technology**.   
 🎓 Third-year **BSc Computer Science** student at **[The Hebrew University of Jerusalem](https://en.huji.ac.il/)**.
-___
-### 📽️ Projects  
+
+## 📽️ Projects  
 - 📷 [**Image Processing**](https://github.com/neriabd/ImageProcessing)
 <br> Image Processing Course Assignments
 <br><br> 
