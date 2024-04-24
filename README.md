@@ -16,7 +16,7 @@ Hey there, I'm **Neria Ben David** 👋
 -  ⏳ [**Workshop in C & C++**](https://github.com/neriabd/Workshop-C-CPP)<br><br>
 -  🗣️ [**Natural Langugage Processing**](https://github.com/neriabd/Natural-Language-Processing)<br><br>
 ##
-## 👨‍💻 Programming Languages
+## 👨‍💻 Programming Languages & Tools
 
 
 [![C Icon](logos/c.png)](https://en.wikipedia.org/wiki/C_(programming_language))
