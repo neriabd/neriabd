@@ -22,6 +22,7 @@ Hey there, I'm **Neria Ben David** 👋
 [![C Icon](logos/c.png)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![CPP Icon](logos/cpp.png)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![Python Icon](logos/python.png)](https://www.python.org)
+[![Sage Icon](logos/sage.png)](https://www.sagemath.org)
 
 <!--
 **neriabd/neriabd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
