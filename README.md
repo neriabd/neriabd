@@ -18,8 +18,8 @@ Hey there, I'm **Neria Ben David** 👋
 ##
 ## 👨‍💻 Programming Languages & Tools
 
-[![CSS Icon](logos/css.png)](https://en.wikipedia.org/wiki/CSS)
 [![HTML Icon](logos/html.png)](https://en.wikipedia.org/wiki/HTML)
+[![CSS Icon](logos/css.png)](https://en.wikipedia.org/wiki/CSS)
 [![C Icon](logos/c.png)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![CPP Icon](logos/cpp.png)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![Python Icon](logos/python.png)](https://www.python.org)
