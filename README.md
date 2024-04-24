@@ -18,11 +18,15 @@ Hey there, I'm **Neria Ben David** 👋
 ##
 ## 👨‍💻 Programming Languages & Tools
 
-
+[![CSS Icon](logos/css.png)](https://en.wikipedia.org/wiki/CSS)
+[![HTML Icon](logos/html.png)](https://en.wikipedia.org/wiki/HTML)
 [![C Icon](logos/c.png)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![CPP Icon](logos/cpp.png)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![Python Icon](logos/python.png)](https://www.python.org)
 [![Sage Icon](logos/sage.png)](https://www.sagemath.org)
+
+
+
 
 <!--
 **neriabd/neriabd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
