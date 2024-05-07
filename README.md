@@ -7,7 +7,7 @@ Hey there, I'm **Neria Ben David** 👋
 🎓 Third-year **BSc Computer Science** student at **[The Hebrew University of Jerusalem](https://en.huji.ac.il/)**.
 ##
 
-## 💻 Personal Projects  
+<!--## 💻 Personal Projects --> 
 
 ## 📽️ University Projects  
 -  🎮 [**Nand2Tetris**](https://github.com/neriabd/Nand2Tetris)<br><br>
