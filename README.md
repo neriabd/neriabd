@@ -18,7 +18,7 @@ Hey there, I'm **Neria Ben David** 👋
 -  📊 [**Introduction To Machine Learning**](https://github.com/neriabd/IML.HUJI)<br><br>
 
 ##
-## 👨‍💻 Programming Languages & Tools
+## 👨‍💻 Programming Languages & Frameworks
 
 <!--## [![HTML Icon](logos/html.png)](https://en.wikipedia.org/wiki/HTML)
 [![CSS Icon](logos/css.png)](https://en.wikipedia.org/wiki/CSS) --> 
