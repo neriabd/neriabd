@@ -24,12 +24,12 @@ Hey there, I'm **Neria Ben David** 👋
 [![CSS Icon](logos/css.png)](https://en.wikipedia.org/wiki/CSS) --> 
 [![C Icon](logos/c.png)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![CPP Icon](logos/cpp.png)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![Java Icon](logos/java.png)](https://www.java.com)
 [![Python Icon](logos/python.png)](https://www.python.org)
-[![Sage Icon](logos/sage.png)](https://www.sagemath.org)
+[![Java Icon](logos/java.png)](https://www.java.com)
 [![Numpy Icon](logos/numpy.png)](https://numpy.org)
 [![Pandas Icon](logos/pandas.png)](https://pandas.pydata.org)
 [![PyTorch Icon](logos/pytorch.png)](https://pytorch.org)
+[![Sage Icon](logos/sage.png)](https://www.sagemath.org)
 
 
 
