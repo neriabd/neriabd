@@ -24,7 +24,10 @@ Hey there, I'm **Neria Ben David** 👋
 [![CPP Icon](logos/cpp.png)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![Python Icon](logos/python.png)](https://www.python.org)
 [![Sage Icon](logos/sage.png)](https://www.sagemath.org)
-<!--## [![Java Icon](logos/java.png)](https://www.java.com) --> 
+[![Java Icon](logos/java.png)](https://www.java.com)
+[![Numpy Icon](logos/numpy.png)](https://numpy.org)
+[![Pandas Icon](logos/pandas.png)](https://pandas.pydata.org)
+[![PyTorch Icon](logos/pytorch.png)](https://pytorch.org)
 
 
 
