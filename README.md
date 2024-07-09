@@ -17,21 +17,29 @@ Hey there, I'm **Neria Ben David** 👋
 -  🗣️ [**Natural Langugage Processing**](https://github.com/neriabd/Natural-Language-Processing)<br><br>
 -  📊 [**Introduction To Machine Learning**](https://github.com/neriabd/IML.HUJI)<br><br>
 
-##
 ## 👨‍💻 Programming Languages & Frameworks
 
-<!--## [![HTML Icon](logos/html.png)](https://en.wikipedia.org/wiki/HTML)
-[![CSS Icon](logos/css.png)](https://en.wikipedia.org/wiki/CSS) --> 
-[![C Icon](logos/c.png)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![CPP Icon](logos/cpp.png)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![Python Icon](logos/python.png)](https://www.python.org)
-[![Java Icon](logos/java.png)](https://www.java.com)
-[![Numpy Icon](logos/numpy.png)](https://numpy.org)
-[![Pandas Icon](logos/pandas.png)](https://pandas.pydata.org)
-[![PyTorch Icon](logos/pytorch.png)](https://pytorch.org)
-[![Sage Icon](logos/sage.png)](https://www.sagemath.org)
 
+<!-- ## [![HTML Icon](logos/html.png)](https://en.wikipedia.org/wiki/HTML) --> 
+<!-- [![CSS Icon](logos/css.png)](https://en.wikipedia.org/wiki/CSS) --> 
+<!-- [![C Icon](logos/c.png)](https://en.wikipedia.org/wiki/C_(programming_language)) --> 
+<!-- [![CPP Icon](logos/cpp.png)](https://en.wikipedia.org/wiki/C%2B%2B) --> 
+<!-- [![Python Icon](logos/python.png)](https://www.python.org)--> 
+<!-- [![Java Icon](logos/java.png)](https://www.java.com)--> 
+<!-- [![Numpy Icon](logos/numpy.png)](https://numpy.org)--> 
+<!-- [![Pandas Icon](logos/pandas.png)](https://pandas.pydata.org)--> 
+<!-- [![PyTorch Icon](logos/pytorch.png)](https://pytorch.org)--> 
+<!-- [![Sage Icon](logos/sage.png)](https://www.sagemath.org)--> 
 
+<!-- [![CSS Icon](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)--> 
+[![C Icon](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![CPP Icon](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![Python Icon](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![Java Icon](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
+[![Numpy Icon](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
+[![Pandas Icon](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![PyTorch Icon](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![Sage Icon](https://img.shields.io/badge/SageMath-3E6E9F?style=for-the-badge&logo=sage&logoColor=white)](https://www.sagemath.org)
 
 
 
