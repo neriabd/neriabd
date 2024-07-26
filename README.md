@@ -40,8 +40,8 @@ Hey there, I'm **Neria Ben David** 👋
 [![Numpy Icon](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
 [![Pandas Icon](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 [![PyTorch Icon](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![POSTGRESSQL Icon](https://img.shields.io/badge/PostGres_SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![Sage Icon](https://img.shields.io/badge/SageMath-00008B?style=for-the-badge&logo=sage&logoColor=white)](https://www.sagemath.org)
-
 
 
 <!--
