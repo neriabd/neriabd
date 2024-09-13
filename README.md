@@ -39,7 +39,7 @@ Hey there, I'm **Neria Ben David** 👋
 [![Java Icon](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.java.com)
 [![HTML Icon](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
 [![CSS Icon](https://img.shields.io/badge/CSS-00008B?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
-[![JavaScript Icon](https://img.shields.io/badge/JavaScript-F4C20D?style=for-the-badge&logo=javascript&logoColor=black)](https://en.wikipedia.org/wiki/JavaScript)
+[![JavaScript Icon](https://img.shields.io/badge/JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=white&color=FFA500)](https://en.wikipedia.org/wiki/JavaScript)
 [![Numpy Icon](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
 [![Pandas Icon](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 [![PyTorch Icon](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
