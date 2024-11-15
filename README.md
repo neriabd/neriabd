@@ -9,8 +9,7 @@ Hey there, I'm **Neria Ben David** 👋
 
 ## 💻 Personal Projects
 -  🥷 [**Yushi**](https://github.com/neriabd/Yushi)<br><br>
--  🎮 [**Mac2Tetris**](https://github.com/neriabd/Mac2Tetris)<br><br>
-
+<!-- -  🎮 [**Mac2Tetris**](https://github.com/neriabd/Mac2Tetris)<br><br> -->
 
 ## 📽️ University Projects  
 -  🎮 [**Nand2Tetris**](https://github.com/neriabd/Nand2Tetris)<br><br>
